@@ -2,7 +2,7 @@
 
 This is a **premium landing page demo** designed to help real estate agents generate **serious buyer inquiries directly to WhatsApp**. It’s built using **HTML and CSS**, fully mobile-friendly, and optimized for conversion.  
 
-## 🌟 Features
+##  Features
 
 - **Multiple property images** to showcase listings  
 - **Clear headline and pricing** to grab attention  
@@ -11,7 +11,7 @@ This is a **premium landing page demo** designed to help real estate agents gene
 - **Trust elements** like agent name and inspection availability  
 - **Call-to-Action (CTA)** button linking to WhatsApp  
 
-## 🎯 Purpose
+##  Purpose
 
 The page is not just a website—it’s a **lead generation system**. Real estate agents can use it to:
 
@@ -19,7 +19,7 @@ The page is not just a website—it’s a **lead generation system**. Real estat
 - Capture inquiries via WhatsApp instantly  
 - Promote listings more professionally  
 
-## 📌 How to Use
+##  How to Use
 
 1. Replace the placeholder WhatsApp link with your own:  
    ```html
